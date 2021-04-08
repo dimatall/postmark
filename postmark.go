@@ -10,7 +10,7 @@ import (
 )
 
 var (
-	postmarkURL = `https://api.postmarkapp.com`
+	postmarkURL = `https://api-ssl-temp.postmarkapp.com`
 )
 
 // Client provides a connection to the Postmark API
